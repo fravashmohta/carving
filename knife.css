@@ -1,0 +1,40 @@
+html
+{
+   background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3sqY0y8Hh70Tlcyra6CdYYX9BKYBGTY46Q&usqp=CAU);
+    background-repeat:no-repeat;
+    background-size:cover;
+	}
+
+	html
+	{
+ 
+	border-width:10px 10px;
+	border-color:black;
+	margin:2px;
+	border-style:solid;
+	border-radius:1%;
+}
+img
+{
+		border-width:2px 2px;
+	border-color:black;
+	border-style:solid;
+	border-radius:5%;
+}
+video
+{
+		border-width:2px 2px;
+	border-color:black;
+	border-style:solid;
+border-radius:5%;}
+ 
+ li:Hover
+ {  
+ color: red
+ }
+ H2:Hover
+ {
+ COLOR:YELLOW}
+  A:Hover
+  {
+  COLOR: GREEN}	

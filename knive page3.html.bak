@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>knives</title>
+</head>
+<link rel="stylesheet"type="TEXT/CSS"href="knife.css">
+<body>
+<br>
+<hr>
+<h2><strong>5- <u> Cutter</u>.</strong></h2>
+<br>
+<br>
+<A HREF="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/cutter%201.jpeg"><IMG SRC="cutter 1.jpeg"WIDTH="220"></a>    <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/cutter%202.jpeg"><img src="cutter 2.jpeg"width="220"></a>     <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/cutter%203.jpeg"><img src="cutter 3.jpeg"width="210">     </a><a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/cutter%204.jpeg"><img src="cutter 4.jpeg"width="210">  </a>
+<br>
+<br>
+<h2><ol> <p style="color: darkblue">key features:-</h2></p>
+<BR>
+<li>Type:Cutter. 
+<br>
+<br>
+<li>Blade Material: Cedar Wood.</li>
+<br>
+<li>Color: Brown.</li>
+<BR>
+<li>Overall length of knife : 7.3 inch (Blade size : 4.3 inch).</li>
+<BR>
+<BR>
+<FORM>
+<LABEL>Select your blade type :</label><br>
+<label>SHARP<input type="radio" name ="DO YOU WANT IT SHARP"value="SHARP"></label>
+<label>BLUNT <input TYPE="RADIO" NAME="DO YOU WANT IT BLUNT" VALUE="BLUNT"></LABEL>
+</FORM>
+<BR>
+<h2><strong><center>Price:<u>599</u>/-</center></strong></h2>
+<BR>
+<br>
+<hr>
+<h2><strong>6- <u> Wooden Ring</u>.</strong></h2>
+<br>
+<br>
+<a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/RIN1.jpeg"><img src="RIN1.jpeg"width="170"></a>   <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/RIN2.jpeg"><img src="RIN2.jpeg"width="180"></a>   <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/RIN3.jpeg"><img src="RIN3.jpeg"width="290"></a>    <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/RIN4.jpeg"><img src="RIN4.jpeg"width="260"></a>    <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/RIN5.jpeg"><img src="RIN5.jpeg"width="200"></a>     <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/RIN7.jpeg"><img src="RIN7.jpeg"WIDTH="220"> </a>
+<br>
+<br>
+<h2><ol> <p style="color: darkblue">key features:-</h2></p>
+<BR>
+<li>Type:Wooden Ring.</li>
+<br>
+<li>Material: Pine Wood.</li>
+<br>
+<li>Color: Brown,Light Brown.</li>
+<BR>
+<li>Ring size : IND 21.</li>
+<BR>
+<h2><strong><center>Price:<u>399</u>/-</center></strong></h2>
+<BR>
+<BR>
+<hr>
+<h2><strong>7- <u> Wooden Ring</u>.</strong></h2>
+<br>
+<br>
+<a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/ring%201.jpeg"><img src="ring 1.jpeg"width="220"></a>   <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/ring%202.jpeg"><img src="ring 2.jpeg"width="140"></a>   <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/ring%203.jpeg"><img src="ring 3.jpeg"width="143"></a>    <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/ring%204.jpeg"><img src="ring 4.jpeg"width="170"></a>    <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/ring%205.jpeg"><img src="ring 5.jpeg"width="220"></a>     <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/ring%206.jpeg"><img src="ring 6.jpeg"WIDTH="220"> </a>
+<br>
+<br>
+<h2><ol> <p style="color: darkblue">key features:-</h2></p>
+<BR>
+<li>Type:Wooden Ring.</li>
+<br>
+<li>Material: Pine Wood.</li>
+<br>
+<li>Color: Brown,Black,Light Brown.</li>
+<BR>
+<li>Ring size : IND 27.</li>
+<BR>
+<h2><strong><center>Price:<u>399</u>/-</center></strong></h2>
+<BR>
+<BR>
+<hr>
+<h2><strong>8- <u> Fravashi </u>.</strong></h2>
+<br>
+<br>
+<a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/fravashi%201.jpeg"><img src="fravashi 1.jpeg"width="260"> </a> <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/fravashi%202.jpeg"><img src="fravashi 2.jpeg" width="140" height="170"> </a> <a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/fravashi%203.jpeg"><img src="fravashi 3.jpeg"width="180"> </a><a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/fravashi%204.mp4"> <video width="220px" height="188px" controls="controls"/> <source src="fravashi 4.mp4"> </video> </a>
+<br>
+<br>
+<h2><ol> <p style="color: darkblue">key features:-</h2></p>
+<BR>
+<li>Type:wooden carving.</li>
+<br>
+<li>Material: Pine Wood.</li>
+<br>
+<li>Color: Brown,Black,Light Brown.</li>
+<BR>
+<li>size : 3inches (width).</li>
+<BR>
+<h2><strong><center>Price:<u>499</u>/-</center></strong></h2>
+<BR>
+<hr>
+
+
+
+
+
+<a href="knive page4.html"><center><STRONG>CLICK HERE TO PROCEED TO PAGE 4 >></center></strong></a>
+<a href="knive page2.html"><h3><center><< GO BACK TO PAGE 2</center></h3></A>
+<br>
+<br>
+__________________________________________________________________________________________________________________________page 3
+
+
+
+
+
+</body>
+</html>  

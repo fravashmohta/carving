@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>knives</title>
+</head>
+<link rel="stylesheet"type="TEXT/CSS"href="knife.css">
+<body>
+<br>
+<hr>
+<h2><strong>9- <u> 5 IN 1 COMBO </u>.</strong></h2>
+<br>
+<br>
+<a href="file:///C:/Users/FRAVASH/Desktop/KNIVE%20PROJECT/COMBO1.jpeg"><img src="COMBO1.jpeg"width="500"> </a>
+<br>
+<br>
+<h2><ol> <p style="color: darkblue">key features:-</h2></p>
+<BR>
+<li>Type:COMBO.</li>
+<br>
+<li>Material: Pine Wood.</li>
+<br>
+<li>Color: Brown,Black,Light Brown.</li>
+<BR>
+<FORM>
+<LABEL>Select your blade type :</label><br>
+<label>SHARP<input type="radio" name ="DO YOU WANT IT SHARP"value="SHARP"></label>
+<label>BLUNT <input TYPE="RADIO" NAME="DO YOU WANT IT blunt" VALUE="BLUNT"></LABEL>
+</FORM>
+<h2><strong><center>Price:<u>4599</u>/-</center></strong></h2>
+<BR>
+<hr>
+<h2><strong>9- <u> 3 IN 1 COMBO </u>.</strong></h2>
+<br>
+<br>
+<a href=""><img src="COMBO.jpeg"width="400"> </a>
+<br>
+<br>
+<h2><ol> <p style="color: darkblue">key features:-</h2></p>
+<BR>
+<li>Type:COMBO.</li>
+<br>
+<li>Material: Pine Wood.</li>
+<br>
+<li>Color: Brown,Light Brown.</li>
+<BR>
+<FORM>
+<LABEL>Select your blade type :</label><br>
+<label>SHARP<input type="radio" name ="DO YOU WANT IT SHARP"value="SHARP"></label>
+<label>BLUNT <input TYPE="RADIO" NAME="DO YOU WANT IT BLUNT" VALUE="BLUNT"></LABEL>
+</FORM>
+<h2><strong><center>Price:<u>3199</u>/-</center></strong></h2>
+<BR>
+<hr>
+</body>
+</html>
